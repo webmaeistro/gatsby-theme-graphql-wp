@@ -1,7 +1,7 @@
 {
   "name": "@webmaeistro/gatsby-theme-graphql-wp",
   "description": "WordPress source theme for Gastby",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "author": "Martin Andersen <marnader@pm.me>",
   "main": "gatsby-config.js",
   "license": "MIT",
@@ -54,6 +54,6 @@
   },
   "repository": {
     "type" : "git",
-    "url" : "https://github.com/progital/gatsby-theme-wp-source-one.git"
+    "url" : "https://github.com/webmaeistro/gatsby-theme-graphql-wp.git"
   }
 }
