@@ -20,7 +20,7 @@ This theme uses GraphQL API to source WordPress content. Therefore the source Wo
 ## How to install
 
 ```bash
-yarn add @progital/gatsby-theme-wp-source-one
+yarn add @webmaeistro/gatsby-theme-graphql-wp
 ```
 
 ```javascript
