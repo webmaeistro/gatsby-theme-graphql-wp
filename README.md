@@ -1,4 +1,4 @@
-# @progital/gatsby-theme-wp-source-one
+# @webmaeistro/gatsby-theme-graphql-wp
 
 ## Description
 
@@ -6,7 +6,7 @@ The idea behind this theme is making a one-stop solution for a WordPress blog ow
 
 ```javascript
 {
-    resolve: '@progital/gatsby-theme-wp-source-one',
+    resolve: '@webmaeistro/gatsby-theme-graphql-wp',
     options: {
         wordPressUrl: 'https://your.wordpress.site/',
     },
@@ -25,7 +25,7 @@ yarn add @progital/gatsby-theme-wp-source-one
 
 ```javascript
 {
-  resolve: '@progital/gatsby-theme-wp-source-one',
+  resolve: '@webmaeistro/gatsby-theme-graphql-wp',
   options: {
     wordPressUrl: 'https://your.wordpress.site/',
     menuLocation: 'MENU_1',
@@ -78,18 +78,17 @@ This theme utilizes the [gatsby-wpgraphql-inline-images](https://github.com/prog
 
 ## Examples of usage
 
-I have a WordPress site serving demo content at [https://noh.progital.dev](https://noh.progital.dev/). It uses the default twentynineteen theme so there is no need to configure menu location.
 
 ```javascript
 {
-    resolve: '@progital/gatsby-theme-wp-source-one',
+    resolve: '@webmaeistro/gatsby-theme-graphql-wp',
     options: {
-        wordPressUrl: 'https://noh.progital.dev/',
+        wordPressUrl: 'https://examplecom',
     },
 },
 ```
 
-The demo site repo is at https://github.com/progital/gatsby-theme-wp-source-one-demo-site and a live demo is available at [https://gatsby-wp-theme.progital.dev](https://gatsby-wp-theme.progital.dev/).
+
 
 ## Shout Outs
 
@@ -101,6 +100,4 @@ https://wordpress.org/themes/juliet/
 
 Demo site uses images by [Unsplash](https://unsplash.com/) and text content from [Wikipedia](https://www.wikipedia.org/).
 
-## How to contribute
 
-This is a WIP and any contribution, feedback and PRs are very welcome. Issues is a preferred way of submitting feedback, but you can also email to [andrey@progital.io](mailto:andrey@progital.io).

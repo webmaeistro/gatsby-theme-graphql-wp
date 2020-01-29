@@ -20,17 +20,17 @@ module.exports = options => {
 
   return {
     siteMetadata: {
-      title: `WordPress Source Theme Demo`,
-      author: `@progital_io`,
-      description: `Demo of a WordPress source theme for GatsbyJS. Uses WPGraphQL (GraphQL for WordPress).`,
+      title: `WordPress Source gatsby graphql`,
+      author: `webmaeistro`,
+      description: `WordPress source  GatsbyJS. Uses WPGraphQL (GraphQL for WordPress).`,
       social: [
         {
           name: `twitter`,
-          url: `https://twitter.com/progital_io`,
+          url: `https://twitter.com/webmaeistro`,
         },
         {
           name: `github`,
-          url: `https://github.com/progital`,
+          url: `https://github.com/webmaeistro`,
         },
       ],
       themeOptions,
