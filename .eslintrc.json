@@ -45,9 +45,8 @@
     "indent": "off",
     "prefer-const": "off",
     "max-len": "off",
-    "quote-props": ["error", "as-needed"],
-    "arrow-body-style": "off"
-  },
+    "quote-props": ["error", "as-needed"]
+     },
   "overrides": [
     {
       "files": [

@@ -56,7 +56,7 @@ module.exports = options => {
           // This is field under which it's accessible
           fieldName: `wpgraphql`,
           // Url to query from
-          url: www.botxo.ai/graphql,
+          url: site.botxo.es/graphql,
         },
       },
       `gatsby-plugin-react-helmet`,
