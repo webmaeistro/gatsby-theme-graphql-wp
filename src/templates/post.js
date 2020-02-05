@@ -41,7 +41,9 @@ export const postQuery = graphql`
         featuredImage {
           srcSet
           sourceUrl
-          content
+          file
+            height
+            width
         }
         categories {
           nodes {

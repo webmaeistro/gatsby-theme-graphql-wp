@@ -40,7 +40,9 @@ export const pageQuery = graphql`
         featuredImage {
           srcSet
           sourceUrl
-          content
+          file
+            height
+            width
         }
       }
       menuItems(where: { location: $menuLocation }) {

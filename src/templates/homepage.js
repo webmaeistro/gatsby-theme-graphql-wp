@@ -84,7 +84,9 @@ export const query = graphql`
     featuredImage {
       srcSet
       sourceUrl
-      content
+      file
+        height
+        width
     }
   }
 

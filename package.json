@@ -1,7 +1,7 @@
 {
   "name": "@webmaeistro/gatsby-theme-graphql-wp",
   "description": "WordPress source theme for Gastby",
-  "version": "0.1.6",
+  "version": "1.0.6",
   "author": "Martin Andersen <marnader@pm.me>",
   "main": "gatsby-config.js",
   "license": "MIT",
@@ -41,7 +41,7 @@
     "gatsby-plugin-theme-ui": "^0.2.6",
     "gatsby-source-graphql": "^2.1.2",
     "gatsby-transformer-sharp": "^2.2.3",
-    "gatsby-wpgraphql-inline-images": "~0.2",
+    "gatsby-wpgraphql-inline-images": "^0.2.5",
     "lodash": "^4.17.14",
     "moment": "^2.24.0",
     "react-helmet": "^5.2.1",
