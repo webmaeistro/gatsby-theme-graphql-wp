@@ -31,7 +31,7 @@ const Page = props => {
 export default Page;
 
 export const pageQuery = graphql`
-  query GET_PAGE($id: ID!, $menuLocation: WPGraphQL_MenuLocationEnum!) {
+  query GET_PAGE($id: ID!, $menuLocation: wpgraphql_MenuLocationEnum!) {
     wpgraphql {
       page(id: $id) {
         title
