@@ -52,11 +52,11 @@ module.exports = options => {
         resolve: `gatsby-source-graphql`,
         options: {
           // This type will contain remote schema Query type
-          typeName: wpqlTypeName,
+          typeName: wpgraphql,
           // This is field under which it's accessible
           fieldName: `wpgraphql`,
           // Url to query from
-          url: site.botxo.es/graphql,
+          url: htto://site.botxo.es/graphql,
         },
       },
       `gatsby-plugin-react-helmet`,
