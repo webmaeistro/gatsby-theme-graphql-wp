@@ -1,7 +1,8 @@
 {
   "name": "@webmaeistro/gatsby-theme-graphql-wp",
-  "description": "WordPress source theme for Gastby",
-  "version": "1.0.7",
+  "private":false
+  "description": "Gatsby theme for WordPress as graphql source - ",
+  "version": "1.2.7",
   "author": "Martin Andersen <marnader@pm.me>",
   "main": "gatsby-config.js",
   "license": "MIT",
